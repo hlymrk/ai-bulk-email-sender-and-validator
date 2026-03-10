@@ -1,4 +1,5 @@
-![Logo Image](./assets/logo.webp)
+![Logo Image](./assets/logo.png)
+
 # **AI Bulk Email Sender & Validator**
 
 Professional email automation with AI-powered composition, advanced validation, and multi-provider support.

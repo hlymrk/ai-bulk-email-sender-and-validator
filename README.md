@@ -1,4 +1,4 @@
-![Logo](https://images.apifyusercontent.com/5SAF-J3V7X22I7L3HjbB3n_05AFCSgPw_tOFhS9_Hm8/rs:fill:250:250/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vV3VHSG9BR3lTUFlUY3kzTHotYWN0b3Itb0pSSHNYNk14RE5MbjNQT0ItTGNIeUFaeGdNUy0wYjVhNmQzZi1mNWYyLTRkZTEtODI3OS03ZDU3MDQ3YTQ0OTEuanBn.webp)
+![Logo](https://images.apifyusercontent.com/Fh5iNz5iTDDEdnQqWcJxte26jcT09IaClvWs1a22TXE/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vV3VHSG9BR3lTUFlUY3kzTHotYWN0b3Itb0pSSHNYNk14RE5MbjNQT0ItRENZaFhiZlkydi1sb2dvLnBuZw.png)
 
 
 # **AI Bulk Email Sender & Validator**
